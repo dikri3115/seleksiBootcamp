@@ -1,15 +1,15 @@
-#Seleksi Bootcamp
+<b>#Seleksi Bootcamp<br></b>
 BC9
 
-#Pembuat
+<b>#Pembuat</b><br>
 Dikri (https://github.com/dikri3115)
 
-#Software yang digunakan<br>
+<b>#Software yang digunakan<br></b>
 1.Web Browser (Mozila firefox atau lainnya)<br>
 2.Run server (Xampp)<br>
 3.Text editor (Notepad++)<br>
 
-#Langkah menjalankan program<br>
+<b>#Langkah menjalankan program<br></b>
 1.Buka Xampp, Lalu jalankan Apache dan Mysql<br>
 2.Clone/Download repository ini<br>
 3.pindahkan folder repository ini ke folder /xampp/htdocs/<br>
@@ -22,12 +22,12 @@ Dikri (https://github.com/dikri3115)
 9.Di browser ketik localhost/phpmyadmin/, pilih Databases kemudian buat database dengan nama sensus_penduduk, Impor file .db<br>
 10.Navigate to link this folder<br>
 
-#Program yang dipakai<br>
+<b>#Program yang dipakai<br></b>
 1.Html<br>
 2.PHP<br>
 3.CSS<br>
 4.Bootstrap<br>
 
-#Login User<br>
+<b>#Login User<br></b>
 E-mail : dikri@gmail.com<br>
 Password : admin<br>
