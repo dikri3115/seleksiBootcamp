@@ -4,10 +4,10 @@ BC9
 #Pembuat
 Dikri (https://github.com/dikri3115)
 
-#Software yang digunakan
-1.Web Browser (Mozila firefox atau lainnya)
-2.Run server (Xampp)
-3.Text editor (Notepad++)
+#Software yang digunakan<br>
+1.Web Browser (Mozila firefox atau lainnya)<br>
+2.Run server (Xampp)<br>
+3.Text editor (Notepad++)<br>
 
 #Langkah menjalankan program
 1.Buka Xampp, Lalu jalankan Apache dan Mysql
