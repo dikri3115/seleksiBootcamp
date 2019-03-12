@@ -1,5 +1,33 @@
-# seleksiBootcamp
+#Seleksi Bootcamp
 BC9
-Dalam program ini saya menggunakan run server dengan Xampp, Framework CSS Bootstrap, dan text editor Notepad++.
-Dalam pengerjaannya saya menggunakan bahasa pemrograman PHP dan HTML, saya juga mencari bantuan pada website "https://www.dumetschool.com/blog/Membuat-Kode-Otomatis-di-PHP" dan "https://www.dumetschool.com/blog/Perbedaan-INNER-JOIN-LEFT-JOIN-Dan-RIGHT-JOIN-Pada-SQL"
-Login "E-mail:dikri@gmail.com" "password:admin"
+
+#Pembuat
+Dikri (https://github.com/dikri3115)
+
+#Software yang digunakan
+1.Web Browser (Mozila firefox atau lainnya)
+2.Run server (Xampp)
+3.Text editor (Notepad++)
+
+#Langkah menjalankan program
+1.Buka Xampp, Lalu jalankan Apache dan Mysql
+2.Clone/Download repository ini
+3.pindahkan folder repository ini ke folder /xampp/htdocs/
+  Kemudian didalam folder repository ini buat folder bootstrap dan gambar
+4.pindahkan file .jpg/.png ke folder gambar
+5.Didalam folder bootstrap buat folder css, js, dan font
+6.Cut file .css dan .css.map ke folder css
+7.Cut file .js dan .map ke folder js
+8.Cut file .ttf, .woff, .woff2, .eot, dan .svg ke folder font
+9.Di browser ketik localhost/phpmyadmin/, pilih Databases kemudian buat database dengan nama sensus_penduduk, Impor file .db
+10.Navigate to link this folder
+
+#Program yang dipakai
+1.Html
+2.PHP
+3.CSS
+4.Bootstrap
+
+#Login User
+E-mail : dikri@gmail.com
+Password : admin
