@@ -19,7 +19,7 @@ Dikri (https://github.com/dikri3115)
 6.Cut file .css dan .css.map ke folder css<br>
 7.Cut file .js dan .map ke folder js<br>
 8.Cut file .ttf, .woff, .woff2, .eot, dan .svg ke folder font<br>
-9.Di browser ketik localhost/phpmyadmin/, pilih Databases kemudian buat database dengan nama sensus_penduduk, Impor file .db<br>
+9.Di browser ketik localhost/phpmyadmin/, pilih Databases kemudian buat database dengan nama sensus_penduduk, Impor file .sql<br>
 10.Navigate to link this folder<br>
 
 <b>#Program yang dipakai<br></b>
